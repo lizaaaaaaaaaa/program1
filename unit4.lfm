@@ -1,0 +1,11 @@
+object Form4: TForm4
+  Left = 382
+  Height = 1055
+  Top = 303
+  Width = 1920
+  Caption = 'Правила'
+  DesignTimePPI = 120
+  OnCreate = FormCreate
+  Position = poScreenCenter
+  LCLVersion = '2.2.0.4'
+end
